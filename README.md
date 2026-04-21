@@ -1,6 +1,6 @@
 # 🧠 Generative AI Lab Assignments
 
-This repository contains all the assignments completed as part of my **Generative AI Lab coursework** during my M.Tech in Artificial Intelligence at MANIT Bhopal under the Guidance for Dr.Vijay Bhaskar Semwal
+This repository contains all the assignments completed as part of my **Generative AI Lab coursework** during my M.Tech in Artificial Intelligence at MANIT Bhopal under the Guidance of Dr.Vijay Bhaskar Semwal
 It demonstrates practical implementation of **Generative AI concepts**.
 
 ---
