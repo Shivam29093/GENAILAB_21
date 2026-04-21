@@ -1,5 +1,6 @@
 # 🧠 Generative AI Lab Assignments
-
+Name:Shivam Murlidhar Dahiphale 
+Scholar No:25215011121
 This repository contains all the assignments completed as part of my **Generative AI Lab coursework** during my M.Tech in Artificial Intelligence at MANIT Bhopal under the Guidance of Dr.Vijay Bhaskar Semwal
 It demonstrates practical implementation of **Generative AI concepts**.
 
